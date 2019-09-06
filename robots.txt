@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uoyashenee.summerfields.info/sitemap.xml
